@@ -10,6 +10,7 @@
 #     print( numero)
 
 
-nome=input('digite seu nome:')
-for x in range (10):
-    print(f'{x+1} {nome}')
+# nome=input('digite seu nome:')
+# for x in range (10):
+#     print(f'{x+1} {nome}')
+
